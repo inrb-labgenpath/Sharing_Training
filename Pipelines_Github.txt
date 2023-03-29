@@ -1,0 +1,47 @@
+Analysis
+
+1 artic-ncov2019 https://artic.network/ncov-2019
+2 ivar https://github.com/andersen-lab/ivar
+3 RefBasedAssembly https://github.com/rchapman2000/ref-based-assembly-pipeline
+4 DeNovoAssembly https://github.com/rchapman2000/de-novo-assembly-pipeline
+5 articwrapper https://github.com/rchapman2000/artic-ncov-wrapper
+6 epi2me https://epi2me.nanoporetech.com/
+7 epi2melab/wf-artic https://github.com/epi2me-labs/wf-artic
+8 Gemome Detective https://www.genomedetective.com/
+9 Galaxy https://usegalaxy.org/
+10 Edge bio-informatics https://edgebioinformatics.org/
+11 Dragen Illumina https://www.illumina.com/products/by-type/informatics- products/dragen-bio-it-platform.
+html
+12 Basestack https://basestackwebsite.readthedocs.io/en/latest/
+13 GeVarLi https://forge.ird.fr/transvihmi/GeVarLi
+14 Minknow https://hackmd.io/@Miles/ryVAI_KWF
+https://community.nanoporetech.com/downloads
+
+Quality Control
+
+1 ncov-qc https://github.com/jts/ncov-tools
+2 fastqc https://anaconda.org/bioconda/fastqc
+3 nextclade https://docs.nextstrain.org/projects/nextclade/en/stable/user/nextclade-cli.html
+4 Titan workflows https://public-health-viral-genomics-theiagen.readthedocs.io/en/v1.5.0/titan_workflows.html
+5 Recombination Detection
+Program
+http://web.cbio.uct.ac.za/~darren/rdp.html
+6 Genetic Algorithm for
+Recombination Detection
+https://www.datamonkey.org/gard
+
+Lineage assignement and Phylogeny
+
+1 nextstrain https://nextstrain.org/
+2 IGV https://software.broadinstitute.org/software/igv/
+3 Aliview https://ormbunkar.se/aliview/
+4 Geneious https://www.geneious.com/
+5 MEGA-X https://www.megasoftware.net/
+6 Pangolin https://pangolin.cog-uk.io/
+7 Pangolin_Usher https://genome.ucsc.edu/cgi-bin/hgPhyloPlace
+8 iqtree https://anaconda.org/bioconda/iqtree
+
+Sharing
+
+1 Gisaid https://gisaid.org/
+2 NCBI https://www.ncbi.nlm.nih.gov/
