@@ -16,6 +16,7 @@ html
 13 GeVarLi https://forge.ird.fr/transvihmi/GeVarLi
 14 Minknow https://hackmd.io/@Miles/ryVAI_KWF
 https://community.nanoporetech.com/downloads
+15 Geneious
 
 Quality Control
 
@@ -45,3 +46,7 @@ Sharing
 
 1 Gisaid https://gisaid.org/
 2 NCBI https://www.ncbi.nlm.nih.gov/
+
+SOP
+
+https://inrb-pha4ge.gitbook.io/fastq-and-fasta-generation-processes/
